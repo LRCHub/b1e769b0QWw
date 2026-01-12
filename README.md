@@ -1,0 +1,63 @@
+# 田中摩美々 (CV.菅沼千紗)、白瀬咲耶 (CV.八巻アンナ)、杜野凛世 (CV.丸岡和佳奈)、大崎甜花 (CV.前川涼子)、和泉愛依 (CV.北原沙弥香) – Midnight parade!
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+La li la la la li la さあ
+La li la la la li la おいで
+La li la la la li la 今
+La li la la
+(Hey, baby come here)
+
+Myao 鳴いた黒猫
+そばには 擦り寄るファントム
+どうぞランタンのカボチャ
+蠢く 秘密のパーティーへ
+
+La li la la la li la さあ
+La li la la la li la おいで
+
+笑う月 燃える空(oh oh)
+めくるめく 未知の世界(oh oh)
+Ah 常闇の国で Show time
+
+(Midnight parade! 迷い込めば)
+逃げられない
+(奇っ怪な狂騒サバト)Scary world
+(Midnight parade! 此処で踊ろう)
+心ゆくまで
+(そう夜明けまでともに)
+宴は始まったばかり
+
+今宵は はぐれワルプルギス(Yes)
+(悪戯して Demon
+驚かして Monster)
+今宵は 恐怖を楽しんで(Yes)
+(起き上がって Zombie
+にじり寄って Spider)
+
+もう見てみぬふり出来ない
+(Alright?)
+You
+扉に気づけば
+
+あとは真っ逆さま!
+(Midnight parade! 私たちと)
+遊びましょう
+(百鬼夜行より Trick or treat)
+Spooky world
+(Midnight parade! 髑髏連れて)
+浮かれ騒いで
+(そう夜明けまでともに)
+
+遊宴の日は、続いてく
+かかる魔法
+雷鳴響き、滴る血
+きみは訪れたばかり
+
+La li la la la li la さあ
+La li la la la li la おいで
+La li la la la li la 今
+La li la la
+(Hey, baby come here)
+```
