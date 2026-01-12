@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Midnight parade!",
+  "base_artist": "田中摩美々 (CV.菅沼千紗)、白瀬咲耶 (CV.八巻アンナ)、杜野凛世 (CV.丸岡和佳奈)、大崎甜花 (CV.前川涼子)、和泉愛依 (CV.北原沙弥香)",
+  "createdAt": "2026-01-12T11:13:06.204625Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Midnight Parade",
+      "artist": "Will Hoge",
+      "has_synced": false,
+      "path": "select/01_Midnight_Parade_Will_Hoge.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Midnight Parade",
+      "artist": "BoA",
+      "has_synced": true,
+      "path": "select/02_Midnight_Parade_BoA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Midnight Parade",
+      "artist": "BoA*",
+      "has_synced": true,
+      "path": "select/03_Midnight_Parade_BoA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Midnight parade!",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/04_Midnight_parade!_シャイニーカラーズ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Midnight parade!",
+      "artist": "田中摩美々(菅沼千紗),白瀬咲耶(八巻アンナ),杜野凛世(丸岡和佳奈),大崎甜花(前川涼子),和泉愛依(北原沙弥香)",
+      "has_synced": false,
+      "path": "select/pl_01_Midnight_parade!_田中摩美々(菅沼千紗),白瀬咲耶(八巻アンナ),杜野凛世(丸岡和佳奈),大崎甜花(前川涼子),和泉愛依(北原沙弥香).txt"
+    }
+  ]
+}
